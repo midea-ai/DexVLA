@@ -9,9 +9,9 @@ DexVLA: Vision-Language Model with Plug-In Diffusion Expert for Visuomotor Polic
  The **project web** can be found [here](https://dex-vla.github.io/).
   
 ## 📰 Authors
-Junjie Wen∗,1,2; Yichen Zhu∗,1,†;  Jinming Li1,3;  Zhibin Tang1;  Chaomin Shen2;  Feifei Feng1
-∗ denotes equal contribution. † denotes corresponding author.
-1Midea Group, 2East China Normal University, 3Shanghai University
+Junjie Wen∗,1,2;  Yichen Zhu∗,1,†;   Jinming Li1,3;   Zhibin Tang1;   Chaomin Shen2;   Feifei Feng1<br>
+∗ denotes equal contribution.   † denotes corresponding author.<br>
+1 Midea Group, 2 East China Normal University, 3 Shanghai University<br>
 
 ## Contents
 - [Install](#install)
